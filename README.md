@@ -6,6 +6,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/jbMd2NVFrZk?style=social)](https://youtu.be/jbMd2NVFrZk)
 
-  ![GitHub repo size](./images/images-README/Screenshot%20(11).png)
-  ![GitHub stars](./images/images-README/Screenshot%20(12).png)
-  ![GitHub forks](./images/images-README/Screenshot%20(13).png)
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
